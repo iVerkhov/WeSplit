@@ -1,4 +1,18 @@
-Challenge
+Understanding the basic structure of a SwiftUI app
+
+Creating a form
+
+Adding a navigation bar
+
+Modifying program state
+
+Binding state to user interface controls
+
+Creating views in a loop
+
+
+CHALLENGE:
+
 One of the best ways to learn is to write your own code as often as possible, so here are three ways you should try extending this app to make sure you fully understand what’s going on:
 
 Add a header to the third section, saying “Amount per person”
