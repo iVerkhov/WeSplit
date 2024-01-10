@@ -4,7 +4,7 @@
 - Modifying program state
 - Binding state to user interface controls 
 - Creating views in a loop
-
+-
 
 **CHALLENGE:**
 1. Add a header to the third section, saying “Amount per person”
