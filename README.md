@@ -6,7 +6,7 @@
 - Creating views in a loop
 
 
-## CHALLENGE:
+### CHALLENGE:
 
 1. Add a header to the third section, saying “Amount per person”
 1. Add another section showing the total amount for the check – i.e., the original amount plus tip value, without dividing by the number of people.
